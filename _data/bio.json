@@ -4,44 +4,29 @@
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/49092508?v=4",
     "email": "edina00@naver.com",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "",
+    "website": "https://gooday2die.github.io",
+    "summary": "I am studying Computer Science in South Korea. Programming is my hobby and my job",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "gooday2die",
+        "url": "http://github.com/gooday2die"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Low Level Operations",
       "keywords": [
-        "Arduino",
+        "Embedded Devices",
         "TI MSP430"
       ]
     },
@@ -64,20 +49,19 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Tools/OS",
       "level": "",
       "keywords": [
+        "Vim",
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Jebrains",
       ]
     }
   ],
